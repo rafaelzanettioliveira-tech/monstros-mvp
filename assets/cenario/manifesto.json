@@ -1,1 +1,20 @@
-{}
+{
+  "obj-arvore-0": "assets/cenario/obj-arvore-0.png",
+  "obj-arvore-1": "assets/cenario/obj-arvore-1.png",
+  "obj-arvore-2": "assets/cenario/obj-arvore-2.png",
+  "obj-arvore-3": "assets/cenario/obj-arvore-3.png",
+  "obj-casa-casa-1": "assets/cenario/obj-casa-casa-1.png",
+  "obj-casa-casa-2": "assets/cenario/obj-casa-casa-2.png",
+  "obj-casa-ponto-de-cura": "assets/cenario/obj-casa-ponto-de-cura.png",
+  "obj-estalagmite-0": "assets/cenario/obj-estalagmite-0.png",
+  "obj-estalagmite-1": "assets/cenario/obj-estalagmite-1.png",
+  "obj-junco-0": "assets/cenario/obj-junco-0.png",
+  "obj-rocha-0": "assets/cenario/obj-rocha-0.png",
+  "obj-rocha-1": "assets/cenario/obj-rocha-1.png",
+  "obj-rocha-2": "assets/cenario/obj-rocha-2.png",
+  "pes-arena-frente": "assets/cenario/pes-arena-frente.png",
+  "pes-jogador-costas": "assets/cenario/pes-jogador-costas.png",
+  "pes-jogador-frente": "assets/cenario/pes-jogador-frente.png",
+  "pes-jogador-lado": "assets/cenario/pes-jogador-lado.png",
+  "pes-lider-frente": "assets/cenario/pes-lider-frente.png"
+}
