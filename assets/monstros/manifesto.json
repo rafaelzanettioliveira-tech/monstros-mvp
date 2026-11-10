@@ -8,7 +8,8 @@
     "tamanho_batalha": [
       521,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/anelvo/mapa-hd.png"
   },
   "anforo": {
     "linha": "inicial-agua",
@@ -19,7 +20,8 @@
     "tamanho_batalha": [
       638,
       430
-    ]
+    ],
+    "mapaHd": "assets/monstros/anforo/mapa-hd.png"
   },
   "antila": {
     "linha": "normal-agua",
@@ -30,7 +32,8 @@
     "tamanho_batalha": [
       601,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/antila/mapa-hd.png"
   },
   "antotora": {
     "linha": "normal-agua",
@@ -41,7 +44,8 @@
     "tamanho_batalha": [
       473,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/antotora/mapa-hd.png"
   },
   "bocanoite": {
     "linha": "voador-sombrio",
@@ -52,7 +56,8 @@
     "tamanho_batalha": [
       604,
       394
-    ]
+    ],
+    "mapaHd": "assets/monstros/bocanoite/mapa-hd.png"
   },
   "bocassombra": {
     "linha": "voador-sombrio",
@@ -63,7 +68,8 @@
     "tamanho_batalha": [
       473,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/bocassombra/mapa-hd.png"
   },
   "cabrasa": {
     "linha": "inicial-fogo",
@@ -74,7 +80,8 @@
     "tamanho_batalha": [
       326,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/cabrasa/mapa-hd.png"
   },
   "chutanil": {
     "linha": "lider-voador-lutador",
@@ -85,7 +92,8 @@
     "tamanho_batalha": [
       464,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/chutanil/mapa-hd.png"
   },
   "damascorno": {
     "linha": "inicial-fogo",
@@ -96,7 +104,8 @@
     "tamanho_batalha": [
       328,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/damascorno/mapa-hd.png"
   },
   "fagulho": {
     "linha": "inicial-fogo",
@@ -107,7 +116,8 @@
     "tamanho_batalha": [
       424,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/fagulho/mapa-hd.png"
   },
   "krakanfora": {
     "linha": "inicial-agua",
@@ -118,7 +128,8 @@
     "tamanho_batalha": [
       379,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/krakanfora/mapa-hd.png"
   },
   "larvolt": {
     "linha": "eletrico-inseto",
@@ -129,7 +140,8 @@
     "tamanho_batalha": [
       765,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/larvolt/mapa-hd.png"
   },
   "lerdomusgo": {
     "linha": "inicial-planta",
@@ -140,7 +152,8 @@
     "tamanho_batalha": [
       545,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/lerdomusgo/mapa-hd.png"
   },
   "mashravolt": {
     "linha": "eletrico-inseto",
@@ -151,7 +164,8 @@
     "tamanho_batalha": [
       424,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/mashravolt/mapa-hd.png"
   },
   "megalento": {
     "linha": "inicial-planta",
@@ -162,7 +176,8 @@
     "tamanho_batalha": [
       377,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/megalento/mapa-hd.png"
   },
   "megalitolim": {
     "linha": "pedra-terra",
@@ -173,7 +188,8 @@
     "tamanho_batalha": [
       519,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/megalitolim/mapa-hd.png"
   },
   "murolim": {
     "linha": "pedra-terra",
@@ -184,7 +200,8 @@
     "tamanho_batalha": [
       434,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/murolim/mapa-hd.png"
   },
   "musguelo": {
     "linha": "inicial-planta",
@@ -195,7 +212,8 @@
     "tamanho_batalha": [
       506,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/musguelo/mapa-hd.png"
   },
   "ocarafia": {
     "linha": "especial-mata",
@@ -206,7 +224,8 @@
     "tamanho_batalha": [
       442,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/ocarafia/mapa-hd.png"
   },
   "pedrolim": {
     "linha": "pedra-terra",
@@ -217,7 +236,8 @@
     "tamanho_batalha": [
       460,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/pedrolim/mapa-hd.png"
   },
   "pestibico": {
     "linha": "veneno",
@@ -228,7 +248,8 @@
     "tamanho_batalha": [
       361,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/pestibico/mapa-hd.png"
   },
   "pincatrom": {
     "linha": "eletrico-inseto",
@@ -239,7 +260,8 @@
     "tamanho_batalha": [
       388,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/pincatrom/mapa-hd.png"
   },
   "pipraio": {
     "linha": "lider-eletrico-voador",
@@ -250,7 +272,8 @@
     "tamanho_batalha": [
       495,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/pipraio/mapa-hd.png"
   },
   "sanguebico": {
     "linha": "veneno",
@@ -261,7 +284,8 @@
     "tamanho_batalha": [
       413,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/sanguebico/mapa-hd.png"
   },
   "sugueta": {
     "linha": "veneno",
@@ -272,7 +296,8 @@
     "tamanho_batalha": [
       622,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/sugueta/mapa-hd.png"
   },
   "teatrevas": {
     "linha": "voador-sombrio",
@@ -283,7 +308,8 @@
     "tamanho_batalha": [
       512,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/teatrevas/mapa-hd.png"
   },
   "titicanta": {
     "linha": "normal-agua",
@@ -294,6 +320,7 @@
     "tamanho_batalha": [
       385,
       512
-    ]
+    ],
+    "mapaHd": "assets/monstros/titicanta/mapa-hd.png"
   }
 }
