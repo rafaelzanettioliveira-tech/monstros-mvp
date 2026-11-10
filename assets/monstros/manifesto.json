@@ -1,0 +1,299 @@
+{
+  "anelvo": {
+    "linha": "inicial-agua",
+    "estagio": 2,
+    "batalha": "assets/monstros/anelvo/batalha.png",
+    "mapa": "assets/monstros/anelvo/mapa.png",
+    "silhueta": "assets/monstros/anelvo/silhueta.png",
+    "tamanho_batalha": [
+      521,
+      512
+    ]
+  },
+  "anforo": {
+    "linha": "inicial-agua",
+    "estagio": 1,
+    "batalha": "assets/monstros/anforo/batalha.png",
+    "mapa": "assets/monstros/anforo/mapa.png",
+    "silhueta": "assets/monstros/anforo/silhueta.png",
+    "tamanho_batalha": [
+      638,
+      430
+    ]
+  },
+  "antila": {
+    "linha": "normal-agua",
+    "estagio": 1,
+    "batalha": "assets/monstros/antila/batalha.png",
+    "mapa": "assets/monstros/antila/mapa.png",
+    "silhueta": "assets/monstros/antila/silhueta.png",
+    "tamanho_batalha": [
+      601,
+      512
+    ]
+  },
+  "antotora": {
+    "linha": "normal-agua",
+    "estagio": 2,
+    "batalha": "assets/monstros/antotora/batalha.png",
+    "mapa": "assets/monstros/antotora/mapa.png",
+    "silhueta": "assets/monstros/antotora/silhueta.png",
+    "tamanho_batalha": [
+      473,
+      512
+    ]
+  },
+  "bocanoite": {
+    "linha": "voador-sombrio",
+    "estagio": 1,
+    "batalha": "assets/monstros/bocanoite/batalha.png",
+    "mapa": "assets/monstros/bocanoite/mapa.png",
+    "silhueta": "assets/monstros/bocanoite/silhueta.png",
+    "tamanho_batalha": [
+      604,
+      394
+    ]
+  },
+  "bocassombra": {
+    "linha": "voador-sombrio",
+    "estagio": 2,
+    "batalha": "assets/monstros/bocassombra/batalha.png",
+    "mapa": "assets/monstros/bocassombra/mapa.png",
+    "silhueta": "assets/monstros/bocassombra/silhueta.png",
+    "tamanho_batalha": [
+      473,
+      512
+    ]
+  },
+  "cabrasa": {
+    "linha": "inicial-fogo",
+    "estagio": 2,
+    "batalha": "assets/monstros/cabrasa/batalha.png",
+    "mapa": "assets/monstros/cabrasa/mapa.png",
+    "silhueta": "assets/monstros/cabrasa/silhueta.png",
+    "tamanho_batalha": [
+      326,
+      512
+    ]
+  },
+  "chutanil": {
+    "linha": "lider-voador-lutador",
+    "estagio": 3,
+    "batalha": "assets/monstros/chutanil/batalha.png",
+    "mapa": "assets/monstros/chutanil/mapa.png",
+    "silhueta": "assets/monstros/chutanil/silhueta.png",
+    "tamanho_batalha": [
+      464,
+      512
+    ]
+  },
+  "damascorno": {
+    "linha": "inicial-fogo",
+    "estagio": 3,
+    "batalha": "assets/monstros/damascorno/batalha.png",
+    "mapa": "assets/monstros/damascorno/mapa.png",
+    "silhueta": "assets/monstros/damascorno/silhueta.png",
+    "tamanho_batalha": [
+      328,
+      512
+    ]
+  },
+  "fagulho": {
+    "linha": "inicial-fogo",
+    "estagio": 1,
+    "batalha": "assets/monstros/fagulho/batalha.png",
+    "mapa": "assets/monstros/fagulho/mapa.png",
+    "silhueta": "assets/monstros/fagulho/silhueta.png",
+    "tamanho_batalha": [
+      424,
+      512
+    ]
+  },
+  "krakanfora": {
+    "linha": "inicial-agua",
+    "estagio": 3,
+    "batalha": "assets/monstros/krakanfora/batalha.png",
+    "mapa": "assets/monstros/krakanfora/mapa.png",
+    "silhueta": "assets/monstros/krakanfora/silhueta.png",
+    "tamanho_batalha": [
+      379,
+      512
+    ]
+  },
+  "larvolt": {
+    "linha": "eletrico-inseto",
+    "estagio": 1,
+    "batalha": "assets/monstros/larvolt/batalha.png",
+    "mapa": "assets/monstros/larvolt/mapa.png",
+    "silhueta": "assets/monstros/larvolt/silhueta.png",
+    "tamanho_batalha": [
+      765,
+      512
+    ]
+  },
+  "lerdomusgo": {
+    "linha": "inicial-planta",
+    "estagio": 2,
+    "batalha": "assets/monstros/lerdomusgo/batalha.png",
+    "mapa": "assets/monstros/lerdomusgo/mapa.png",
+    "silhueta": "assets/monstros/lerdomusgo/silhueta.png",
+    "tamanho_batalha": [
+      545,
+      512
+    ]
+  },
+  "mashravolt": {
+    "linha": "eletrico-inseto",
+    "estagio": 3,
+    "batalha": "assets/monstros/mashravolt/batalha.png",
+    "mapa": "assets/monstros/mashravolt/mapa.png",
+    "silhueta": "assets/monstros/mashravolt/silhueta.png",
+    "tamanho_batalha": [
+      424,
+      512
+    ]
+  },
+  "megalento": {
+    "linha": "inicial-planta",
+    "estagio": 3,
+    "batalha": "assets/monstros/megalento/batalha.png",
+    "mapa": "assets/monstros/megalento/mapa.png",
+    "silhueta": "assets/monstros/megalento/silhueta.png",
+    "tamanho_batalha": [
+      377,
+      512
+    ]
+  },
+  "megalitolim": {
+    "linha": "pedra-terra",
+    "estagio": 3,
+    "batalha": "assets/monstros/megalitolim/batalha.png",
+    "mapa": "assets/monstros/megalitolim/mapa.png",
+    "silhueta": "assets/monstros/megalitolim/silhueta.png",
+    "tamanho_batalha": [
+      519,
+      512
+    ]
+  },
+  "murolim": {
+    "linha": "pedra-terra",
+    "estagio": 2,
+    "batalha": "assets/monstros/murolim/batalha.png",
+    "mapa": "assets/monstros/murolim/mapa.png",
+    "silhueta": "assets/monstros/murolim/silhueta.png",
+    "tamanho_batalha": [
+      434,
+      512
+    ]
+  },
+  "musguelo": {
+    "linha": "inicial-planta",
+    "estagio": 1,
+    "batalha": "assets/monstros/musguelo/batalha.png",
+    "mapa": "assets/monstros/musguelo/mapa.png",
+    "silhueta": "assets/monstros/musguelo/silhueta.png",
+    "tamanho_batalha": [
+      506,
+      512
+    ]
+  },
+  "ocarafia": {
+    "linha": "especial-mata",
+    "estagio": 3,
+    "batalha": "assets/monstros/ocarafia/batalha.png",
+    "mapa": "assets/monstros/ocarafia/mapa.png",
+    "silhueta": "assets/monstros/ocarafia/silhueta.png",
+    "tamanho_batalha": [
+      442,
+      512
+    ]
+  },
+  "pedrolim": {
+    "linha": "pedra-terra",
+    "estagio": 1,
+    "batalha": "assets/monstros/pedrolim/batalha.png",
+    "mapa": "assets/monstros/pedrolim/mapa.png",
+    "silhueta": "assets/monstros/pedrolim/silhueta.png",
+    "tamanho_batalha": [
+      460,
+      512
+    ]
+  },
+  "pestibico": {
+    "linha": "veneno",
+    "estagio": 3,
+    "batalha": "assets/monstros/pestibico/batalha.png",
+    "mapa": "assets/monstros/pestibico/mapa.png",
+    "silhueta": "assets/monstros/pestibico/silhueta.png",
+    "tamanho_batalha": [
+      361,
+      512
+    ]
+  },
+  "pincatrom": {
+    "linha": "eletrico-inseto",
+    "estagio": 2,
+    "batalha": "assets/monstros/pincatrom/batalha.png",
+    "mapa": "assets/monstros/pincatrom/mapa.png",
+    "silhueta": "assets/monstros/pincatrom/silhueta.png",
+    "tamanho_batalha": [
+      388,
+      512
+    ]
+  },
+  "pipraio": {
+    "linha": "lider-eletrico-voador",
+    "estagio": 3,
+    "batalha": "assets/monstros/pipraio/batalha.png",
+    "mapa": "assets/monstros/pipraio/mapa.png",
+    "silhueta": "assets/monstros/pipraio/silhueta.png",
+    "tamanho_batalha": [
+      495,
+      512
+    ]
+  },
+  "sanguebico": {
+    "linha": "veneno",
+    "estagio": 2,
+    "batalha": "assets/monstros/sanguebico/batalha.png",
+    "mapa": "assets/monstros/sanguebico/mapa.png",
+    "silhueta": "assets/monstros/sanguebico/silhueta.png",
+    "tamanho_batalha": [
+      413,
+      512
+    ]
+  },
+  "sugueta": {
+    "linha": "veneno",
+    "estagio": 1,
+    "batalha": "assets/monstros/sugueta/batalha.png",
+    "mapa": "assets/monstros/sugueta/mapa.png",
+    "silhueta": "assets/monstros/sugueta/silhueta.png",
+    "tamanho_batalha": [
+      622,
+      512
+    ]
+  },
+  "teatrevas": {
+    "linha": "voador-sombrio",
+    "estagio": 3,
+    "batalha": "assets/monstros/teatrevas/batalha.png",
+    "mapa": "assets/monstros/teatrevas/mapa.png",
+    "silhueta": "assets/monstros/teatrevas/silhueta.png",
+    "tamanho_batalha": [
+      512,
+      512
+    ]
+  },
+  "titicanta": {
+    "linha": "normal-agua",
+    "estagio": 3,
+    "batalha": "assets/monstros/titicanta/batalha.png",
+    "mapa": "assets/monstros/titicanta/mapa.png",
+    "silhueta": "assets/monstros/titicanta/silhueta.png",
+    "tamanho_batalha": [
+      385,
+      512
+    ]
+  }
+}
