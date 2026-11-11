@@ -359,6 +359,18 @@
     ],
     "mapaHd": "assets/monstros/musguelo/mapa-hd.png"
   },
+  "obsidente": {
+    "linha": "lider-pedra-terra",
+    "estagio": 2,
+    "batalha": "assets/monstros/obsidente/batalha.png",
+    "mapa": "assets/monstros/obsidente/mapa.png",
+    "mapaHd": "assets/monstros/obsidente/mapa-hd.png",
+    "silhueta": "assets/monstros/obsidente/silhueta.png",
+    "tamanho_batalha": [
+      617,
+      512
+    ]
+  },
   "ocarafia": {
     "linha": "especial-mata",
     "estagio": 3,
@@ -467,6 +479,30 @@
     ],
     "mapaHd": "assets/monstros/sugueta/mapa-hd.png"
   },
+  "talhim": {
+    "linha": "terra",
+    "estagio": 1,
+    "batalha": "assets/monstros/talhim/batalha.png",
+    "mapa": "assets/monstros/talhim/mapa.png",
+    "mapaHd": "assets/monstros/talhim/mapa-hd.png",
+    "silhueta": "assets/monstros/talhim/silhueta.png",
+    "tamanho_batalha": [
+      719,
+      497
+    ]
+  },
+  "tamantalho": {
+    "linha": "terra",
+    "estagio": 2,
+    "batalha": "assets/monstros/tamantalho/batalha.png",
+    "mapa": "assets/monstros/tamantalho/mapa.png",
+    "mapaHd": "assets/monstros/tamantalho/mapa-hd.png",
+    "silhueta": "assets/monstros/tamantalho/silhueta.png",
+    "tamanho_batalha": [
+      455,
+      512
+    ]
+  },
   "tapascudo": {
     "linha": "planta-agua",
     "estagio": 2,
@@ -514,6 +550,18 @@
       512
     ],
     "mapaHd": "assets/monstros/titicanta/mapa-hd.png"
+  },
+  "xilobandeira": {
+    "linha": "terra",
+    "estagio": 3,
+    "batalha": "assets/monstros/xilobandeira/batalha.png",
+    "mapa": "assets/monstros/xilobandeira/mapa.png",
+    "mapaHd": "assets/monstros/xilobandeira/mapa-hd.png",
+    "silhueta": "assets/monstros/xilobandeira/silhueta.png",
+    "tamanho_batalha": [
+      404,
+      512
+    ]
   },
   "zodogue": {
     "linha": "lutador",
