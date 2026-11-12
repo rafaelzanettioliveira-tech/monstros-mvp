@@ -7,7 +7,7 @@
     "mapaHd": "assets/monstros/abanicao/mapa-hd.png",
     "silhueta": "assets/monstros/abanicao/silhueta.png",
     "tamanho_batalha": [
-      337,
+      381,
       512
     ]
   },
@@ -199,7 +199,7 @@
     "mapaHd": "assets/monstros/flamencauro/mapa-hd.png",
     "silhueta": "assets/monstros/flamencauro/silhueta.png",
     "tamanho_batalha": [
-      383,
+      377,
       512
     ]
   },
@@ -223,7 +223,7 @@
     "mapaHd": "assets/monstros/golacesa/mapa-hd.png",
     "silhueta": "assets/monstros/golacesa/silhueta.png",
     "tamanho_batalha": [
-      532,
+      474,
       512
     ]
   },
@@ -259,7 +259,7 @@
     "mapaHd": "assets/monstros/lebrute/mapa-hd.png",
     "silhueta": "assets/monstros/lebrute/silhueta.png",
     "tamanho_batalha": [
-      402,
+      443,
       512
     ]
   },
@@ -283,8 +283,8 @@
     "mapaHd": "assets/monstros/marmolote/mapa-hd.png",
     "silhueta": "assets/monstros/marmolote/silhueta.png",
     "tamanho_batalha": [
-      702,
-      468
+      782,
+      486
     ]
   },
   "mashravolt": {
@@ -439,7 +439,7 @@
     "mapaHd": "assets/monstros/pulebre/mapa-hd.png",
     "silhueta": "assets/monstros/pulebre/silhueta.png",
     "tamanho_batalha": [
-      304,
+      258,
       512
     ]
   },
@@ -571,7 +571,7 @@
     "mapaHd": "assets/monstros/zodogue/mapa-hd.png",
     "silhueta": "assets/monstros/zodogue/silhueta.png",
     "tamanho_batalha": [
-      423,
+      359,
       512
     ]
   },
