@@ -153,7 +153,21 @@
       424,
       512
     ],
-    "mapaHd": "assets/monstros/fagulho/mapa-hd.png"
+    "mapaHd": "assets/monstros/fagulho/mapa-hd.png",
+    "passada": {
+      "frente": [
+        "assets/monstros/fagulho/passada-frente-0.png",
+        "assets/monstros/fagulho/passada-frente-1.png"
+      ],
+      "costas": [
+        "assets/monstros/fagulho/passada-costas-0.png",
+        "assets/monstros/fagulho/passada-costas-1.png"
+      ],
+      "lado": [
+        "assets/monstros/fagulho/passada-lado-0.png",
+        "assets/monstros/fagulho/passada-lado-1.png"
+      ]
+    }
   },
   "fanumbra": {
     "linha": "inseto-sombrio",
@@ -441,7 +455,21 @@
     "tamanho_batalha": [
       258,
       512
-    ]
+    ],
+    "passada": {
+      "frente": [
+        "assets/monstros/pulebre/passada-frente-0.png",
+        "assets/monstros/pulebre/passada-frente-1.png"
+      ],
+      "costas": [
+        "assets/monstros/pulebre/passada-costas-0.png",
+        "assets/monstros/pulebre/passada-costas-1.png"
+      ],
+      "lado": [
+        "assets/monstros/pulebre/passada-lado-0.png",
+        "assets/monstros/pulebre/passada-lado-1.png"
+      ]
+    }
   },
   "samarcauda": {
     "linha": "voador",
@@ -585,6 +613,21 @@
     "tamanho_batalha": [
       419,
       512
-    ]
+    ],
+    "passada": {
+      "frente": [
+        "assets/monstros/zumbico/passada-frente-0.png",
+        "assets/monstros/zumbico/passada-frente-1.png"
+      ],
+      "costas": [
+        "assets/monstros/zumbico/passada-costas-0.png",
+        "assets/monstros/zumbico/passada-costas-1.png"
+      ],
+      "lado": [
+        "assets/monstros/zumbico/passada-lado-0.png",
+        "assets/monstros/zumbico/passada-lado-1.png"
+      ]
+    },
+    "voa": true
   }
 }
